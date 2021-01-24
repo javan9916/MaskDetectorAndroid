@@ -60,7 +60,6 @@ class ImageFragment : Fragment() {
 
         imageView = view.findViewById(R.id.imageView)
         captureButton = view.findViewById(R.id.floatingActionButton)
-        captureButton.show()
 
         captureButton.setOnClickListener { v ->
             dispatchTakePictureIntent()
@@ -189,7 +188,6 @@ class ImageFragment : Fragment() {
         }
 
         print("Finished")
-        captureButton.hide()
     }
 
 
