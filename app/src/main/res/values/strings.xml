@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MaskDetector</string>
+    <string name="nav_image">Picture</string>
+    <string name="nav_record">Video</string>
+    <string name="nav_live">Live</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="imageDescription">Description</string>
+    <string name="permission_deny_text">Required permissions denied. Exiting.</string>
+</resources>

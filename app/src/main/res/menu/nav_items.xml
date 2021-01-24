@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_image"
+        android:icon="@drawable/baseline_insert_photo_black_36"
+        android:title="@string/nav_image" />
+    <item
+        android:id="@+id/nav_live"
+        android:icon="@drawable/baseline_radio_button_checked_black_36"
+        android:title="@string/nav_live" />
+</menu>
